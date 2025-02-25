@@ -57,6 +57,5 @@ Ensure you have **Docker** and **Docker Compose** installed.
 - **Automated Anomaly Detection & Email Alerts**
 - **Dockerized Environment for Easy Deployment**
 
-## Deployment
-For deploying to a production server, push your Docker images to a container registry and set up an orchestrator like Kubernetes or Docker Swarm.
+
 
