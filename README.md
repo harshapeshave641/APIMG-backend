@@ -7,6 +7,7 @@ This backend is designed for API management with robust logging, monitoring, and
 
 ## Architecture
 The backend is structured into multiple services:
+![Flowchart](https://github.com/user-attachments/assets/2a5ba6f7-ec7d-4fa8-a39d-899eac49c645)
 
 - **Main Server**: Handles authentication, API key management, and client interactions.
 - **Kafka Producers**: Publish logs and request data to Kafka topics.
